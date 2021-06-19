@@ -17,7 +17,7 @@ const mainPage = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                    <img id="pic" src="https://image.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1714491562.jpg" alt="coding_pic" width="100%" height="auto%" />
+                                    <img id="pic" src="https://lh3.googleusercontent.com/InofaKN7_G8O9hlZXSAVhCUgWL9Rycbfxqsty7Jlrd5txy-gjDbXqno_mh6q-4YwTYviwAJssWVKonCXLFTLopRm2v-wstINsgvoeKKtAbrpNAhVGlm7R19bHy7CkloUy8-7NtENaw=w2400" alt="profile_pic" width="100%" height="auto%" />
                                 </div>
 
                                 <div className="col-md-8">

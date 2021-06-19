@@ -18,7 +18,7 @@ function body(props) {
                         <blockquote className="blockquote mb-0">
           <div className="row">
          <div className="col-md-3">
-       <img id="pic" src="https://image.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1714491562.jpg" alt="profile pic" width="100%" height="auto%" />
+       <img id="pic" src="https://photos.app.goo.gl/5JPvxgAY4sMoMCR28" alt="profile_pic" width="100%" height="auto%" />
       </div>
 
     <div className="col-md-8">
