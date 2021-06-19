@@ -10,7 +10,7 @@ const mainPage = () => {
                 <div className="card">
                     <div className="card-header">
                         <h3>
-                            About Me
+                            About Me: Stephanie Barnhouse
                 </h3>
                     </div>
                     <div className="card-body">

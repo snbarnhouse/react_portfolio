@@ -10,7 +10,7 @@ const mainPage = () => {
             <nav className="navbar">
                 <div className="col-md-1"></div>
                 <div className="col-md-3">
-                    <span id="name" className="navbar-brand mb-0 h1">Stephanie Barnhouse</span>
+                    <span id="name" className="navbar-brand mb-0 h1"></span>
                 </div>
                 <div className="col-md-3">
 

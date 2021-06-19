@@ -9,7 +9,7 @@ const portfolio = () => {
                 <div className="card">
                     <div className="card-header">
                         <h3>
-                            Portfolio
+                            Portfolio: Stephanie Barnhouse
                     </h3>
                     </div>
                     <div className="card-body">

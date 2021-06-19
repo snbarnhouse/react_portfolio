@@ -8,7 +8,7 @@ const Contact = () => {
 <div className="container">
         <div className="card">
                     <div className="card-header">
-                        <h3>Contact</h3>
+                        <h3>Contact: Stephanie Barnhouse</h3>
                     </div>
             <div className="card-body">
                 <p>GitHub Repositories: <a href="https://github.com/snbarnhouse" target = "_blank">

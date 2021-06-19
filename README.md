@@ -8,7 +8,7 @@ GitHub Repository: https://github.com/snbarnhouse/react_portfolio
 
 Deployed Link: https://snbarnhouse.github.io/react_portfolio/
 
-![react_portfolio](https://user-images.githubusercontent.com/77131387/122627524-faac0900-d07d-11eb-9ae3-56f9ea5a0d4a.png)
+![react_portfolio](https://user-images.githubusercontent.com/77131387/122627993-5330d580-d081-11eb-81e8-03992cde25b2.png)
 
 ## Your Task
 
